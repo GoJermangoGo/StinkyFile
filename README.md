@@ -1,2 +1,3 @@
 # StinkyFile
-Free, cross-platform file transfer service. Those files sure do stink.
+
+Free, open source, cross-platform file transfer service. Gee whiz; those files sure do stink.

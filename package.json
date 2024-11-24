@@ -1,0 +1,38 @@
+{
+	"name": "stinkyfile",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "tsc -b && vite build",
+		"lint": "eslint src"
+	},
+	"dependencies": {
+		"react": "*",
+		"react-dom": "*",
+		"zustand": "*"
+	},
+	"devDependencies": {
+		"@eslint/js": "*",
+		"@types/react": "*",
+		"@types/react-dom": "*",
+		"@vitejs/plugin-react-swc": "*",
+		"autoprefixer": "*",
+		"eslint": "^8.57.0",
+		"eslint-plugin-diff": "*",
+		"eslint-plugin-etc": "*",
+		"eslint-plugin-import": "*",
+		"eslint-plugin-react": "*",
+		"eslint-plugin-react-hooks": "*",
+		"eslint-plugin-react-refresh": "*",
+		"globals": "*",
+		"postcss": "*",
+		"prettier": "*",
+		"prettier-plugin-tailwindcss": "*",
+		"tailwindcss": "*",
+		"typescript": "*",
+		"typescript-eslint": "*",
+		"vite": "*"
+	}
+}
